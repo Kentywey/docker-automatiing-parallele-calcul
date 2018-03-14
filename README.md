@@ -26,7 +26,6 @@ If you want to be sure that your node server is on, you can use a curl and will 
 curl -i localhost:49161
 
 HTTP/1.1 200 OK
-X-Powered-By: Express
 Content-Type: text/html; charset=utf-8
 Content-Length: 5
 ETag: W/"5-ThJDvSLGbnbCup7dwfkTlOV/n4M"
