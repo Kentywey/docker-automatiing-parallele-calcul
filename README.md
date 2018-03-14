@@ -18,7 +18,7 @@ First step, check that you correctly install docker, if you haven't already dock
 
 Then you will need to launch the Node server, you will find a "docker_start.sh" that will build you a container and ask you how many Node server you want to build.
 
-Note that your container will be build with the name "node_calcul" and will listen on port 8080, the range to send information to the node server start at 49160.
+Note that your container will be build with the name "node_calcul" and will listen on port 8080, the port range to send information to the node server start at 49161.
 
 If you want to be sure that your node server is on, you can use a curl and will see this :
 

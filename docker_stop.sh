@@ -3,7 +3,7 @@
 echo "How many node server did you create?"
 read number
 i=1
-while((i < number))
+while((i <= number))
 do
     docker stop node_calcul$i | echo "Node server " $node_calcul$i" : Stopped"
     docker rm node_calcul$i | echo "Node server "$node_calcul$i" : Deleted"
