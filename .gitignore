@@ -1,0 +1,8 @@
+# File and extension we pass over
+# Folder containing all node modules ( Download when the container is build )
+node_modules
+# File unwanted created by vim
+*.un~
+# File created by linux ( swap )
+*.swp~
+
