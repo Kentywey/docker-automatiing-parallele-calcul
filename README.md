@@ -8,6 +8,6 @@ We want to automation the execution of simulator calcul with docker to simulate 
 
 [<img src="img/protobufjs.png">](https://www.npmjs.com/package/protobufjs) 
 [<img src="img/matsim.png">](https://www.matsim.org/) 
-[<img src="img/dockerswarm.jpg">](https://docs.docker.com/engine/swarm/)
+[<img src="img/dockerswarm.jpeg">](https://docs.docker.com/engine/swarm/)
 
 </div>
