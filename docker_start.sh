@@ -6,7 +6,7 @@ read number
 i=1
 while((i <= number))
 do
-    docker run -p 4916$i:8080 --name node_calcul$i --volume /var/lib/docker/volumes/node/_data -d node_calcul |
+    docker run -p 4916$i:8080 --name node_calcul$i --volume /var/lib/docker/volumes/node$i/_data -d node_calcul |
         echo "Node server "$i " : state = operating"
     i=`expr $i + 1`
 done
