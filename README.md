@@ -8,15 +8,17 @@ We want to automation the execution of simulator calcul with docker to simulate 
 
 [<img src="img/protobufjs.png">](https://www.npmjs.com/package/protobufjs) 
 [<img src="img/matsim.png">](https://www.matsim.org/) 
-[<img src="img/dockerswarm.jpeg">](https://docs.docker.com/engine/swarm/)
-
 </div>
 
 ## Installation and usage guide :
 
 First step, check that you correctly install docker, if you haven't already docker Follow this link : https://docs.docker.com/install/
 
-Then you will need to launch the Node server, you will find a "docker_start.sh" that will build you a container and ask you how many Node server you want to build.
+Then you will need to run a "Portainer" container by doing : 
+
+"docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v /opt/portainer:/data portainer/portainer" where -v create a volume to stock data from the portainer monitoring system
+
+Then you will need to launch the Node server, you will find a "docker_start.sh" that will build you a container and ask you how many Node server you want to build, this version include the creation of a local storage point for each node.
 
 Note that your container will be build with the name "node_calcul" and will listen on port 8080, the port range to send information to the node server start at 49161.
 
