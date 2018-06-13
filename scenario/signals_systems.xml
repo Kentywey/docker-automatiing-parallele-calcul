@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<signalSystems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.matsim.org/files/dtd" xsi:schemaLocation="http://www.matsim.org/files/dtd http://www.matsim.org/files/dtd/signalSystems_v2.0.xsd">
+
+  <signalSystem id="1"> <!-- id="17"> -->
+    <signals>
+      <signal linkIdRef="5860" id="1"/>
+      <signal linkIdRef="5656" id="2"/>
+      <signal linkIdRef="2817" id="3"/>
+      <signal linkIdRef="2822" id="4"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="2"> <!-- id="0908"> -->
+    <signals>
+      <signal linkIdRef="2041" id="1"/>
+      <signal linkIdRef="572" id="2"/>
+      <signal linkIdRef="1615" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="3"> <!-- id="0899"> -->
+    <signals>
+      <signal linkIdRef="569" id="1"/>
+      <signal linkIdRef="2042" id="2"/>
+      <signal linkIdRef="5177" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="4"> <!-- id="990898"> -->
+    <signals>
+      <signal linkIdRef="2043" id="1"/>
+      <signal linkIdRef="568" id="2"/>
+      <signal linkIdRef="4643" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="5"> <!-- id="980799"> -->
+    <signals>
+      <signal linkIdRef="567" id="1"/>
+      <signal linkIdRef="2044" id="2"/>
+      <signal linkIdRef="5151" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="6"> <!-- id="070698"> -->
+    <signals>
+      <signal linkIdRef="566" id="1"/>
+      <signal linkIdRef="2045" id="2"/>
+      <signal linkIdRef="656" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="7"> <!-- id="060700"> -->
+    <signals>
+      <signal linkIdRef="5493" id="1"/>
+      <signal linkIdRef="2046" id="2"/>
+      <signal linkIdRef="1891" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="8"> <!-- id="00060104"> -->
+    <signals>
+      <signal linkIdRef="4705" id="1"/>
+      <signal linkIdRef="5759" id="2"/>
+      <signal linkIdRef="5665" id="3"/>
+      <signal linkIdRef="1473" id="4"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="9"> <!-- id="010097"> -->
+    <signals>
+      <signal linkIdRef="4562" id="1"/>
+      <signal linkIdRef="4567" id="2"/>
+      <signal linkIdRef="1864" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="10"> <!-- id="970102"> -->
+    <signals>
+      <signal linkIdRef="3274" id="1"/>
+      <signal linkIdRef="3277" id="2"/>
+      <signal linkIdRef="3788" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="11"> <!-- id="0297"> -->
+    <signals>
+      <signal linkIdRef="1025" id="1"/>
+      <signal linkIdRef="3271" id="2"/>
+      <signal linkIdRef="1548" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="12"> <!-- id="040012"> -->
+    <signals>
+      <signal linkIdRef="3046" id="1"/>
+      <signal linkIdRef="3049" id="2"/>
+      <signal linkIdRef="12" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="13"> <!-- id="120405"> -->
+    <signals>
+      <signal linkIdRef="3050" id="1"/>
+      <signal linkIdRef="3053" id="2"/>
+      <signal linkIdRef="3248" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="14"> <!-- id="051296"> -->
+    <signals>
+      <signal linkIdRef="3056" id="1"/>
+      <signal linkIdRef="3053" id="2"/>
+      <signal linkIdRef="3061" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="15"> <!-- id="9605"> -->
+    <signals>
+      <signal linkIdRef="1461" id="1"/>
+      <signal linkIdRef="2932" id="2"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="16"> <!-- id="393741"> -->
+    <signals>
+      <signal linkIdRef="5986" id="1"/>
+      <signal linkIdRef="405" id="2"/>
+      <signal linkIdRef="239" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="17"> <!-- id="3739"> -->
+    <signals>
+      <signal linkIdRef="402" id="1"/>
+      <signal linkIdRef="399" id="2"/>
+      <signal linkIdRef="5811" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="18"> <!-- id="4139"> -->
+    <signals>
+      <signal linkIdRef="242" id="1"/>
+      <signal linkIdRef="5055" id="2"/>
+      <signal linkIdRef="5344" id="3"/>
+      <signal linkIdRef="1949" id="4"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="19"> <!-- id="35"> -->
+    <signals>
+      <signal linkIdRef="2152" id="1"/>
+      <signal linkIdRef="2155" id="2"/>
+      <signal linkIdRef="2346" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="20"> <!-- id="33"> -->
+    <signals>
+      <signal linkIdRef="588" id="1"/>
+      <signal linkIdRef="749" id="2"/>
+      <signal linkIdRef="3363" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="21"> <!-- id="1695"> -->
+    <signals>
+      <signal linkIdRef="440" id="1"/>
+      <signal linkIdRef="435" id="2"/>
+      <signal linkIdRef="1288" id="3"/>
+      <signal linkIdRef="4572" id="4"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="22"> <!-- id="9516"> -->
+    <signals>
+      <signal linkIdRef="3209" id="1"/>
+      <signal linkIdRef="4580" id="2"/>
+      <signal linkIdRef="1256" id="3"/>
+      <signal linkIdRef="1452" id="4"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="23"> <!-- id="10"> -->
+    <signals>
+      <signal linkIdRef="694" id="1"/>
+      <signal linkIdRef="697" id="2"/>
+      <signal linkIdRef="4506" id="3"/>
+      <signal linkIdRef="2125" id="4"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="24"> <!-- id="23"> -->
+    <signals>
+      <signal linkIdRef="4063" id="1"/>
+      <signal linkIdRef="329" id="2"/>
+      <signal linkIdRef="290" id="3"/>
+      <signal linkIdRef="1289" id="4"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="25"> <!-- id="21"> -->
+    <signals>
+      <signal linkIdRef="4340" id="1"/>
+      <signal linkIdRef="281" id="2"/>
+      <signal linkIdRef="3917" id="3"/>
+      <signal linkIdRef="726" id="4"/>
+      <signal linkIdRef="4725" id="5"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="26"> <!-- id="15"> -->
+    <signals>
+      <signal linkIdRef="1198" id="1"/>
+      <signal linkIdRef="3371" id="2"/>
+      <signal linkIdRef="4140" id="3"/>
+      <signal linkIdRef="4131" id="4"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="27"> <!-- id="27"> -->
+    <signals>
+      <signal linkIdRef="3759" id="1"/>
+      <signal linkIdRef="3762" id="2"/>
+      <signal linkIdRef="4117" id="3"/>
+      <signal linkIdRef="2716" id="4"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="28"> <!-- id="9493" -->
+    <signals>
+      <signal linkIdRef="5972" id="1"/>
+      <signal linkIdRef="5977" id="2"/>
+      <signal linkIdRef="5970" id="3"/>
+      <signal linkIdRef="1454" id="4"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="29"> <!-- id="9394" -->
+    <signals>
+      <signal linkIdRef="5979" id="1"/>
+      <signal linkIdRef="1836" id="2"/>
+      <signal linkIdRef="2425" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="30"> <!-- id="9233" -->
+    <signals>
+      <signal linkIdRef="750" id="1"/>
+      <signal linkIdRef="747" id="2"/>
+      <signal linkIdRef="2225" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="31"> <!-- id="91" -->
+    <signals>
+      <signal linkIdRef="5785" id="1"/>
+      <signal linkIdRef="1400" id="2"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="32"> <!-- id="90" -->
+    <signals>
+      <signal linkIdRef="3182" id="1"/>
+      <signal linkIdRef="4522" id="2"/>
+      <signal linkIdRef="1386" id="3"/>
+    </signals>
+  </signalSystem>
+
+  <signalSystem id="33"> <!-- id="89" -->
+    <signals>
+      <signal linkIdRef="2683" id="1"/>
+      <signal linkIdRef="2686" id="2"/>
+      <signal linkIdRef="2735" id="3"/>
+    </signals>
+  </signalSystem>
+
+</signalSystems>

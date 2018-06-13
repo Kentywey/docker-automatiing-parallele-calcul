@@ -10,6 +10,7 @@ COPY package*.json ./
 
 #Install PROTOBUF
 RUN npm install protobufjs
+RUN npm install java
 RUN npm install
 
 COPY . .
